@@ -202,25 +202,31 @@ nav ul li a:hover{
 	visibility: hidden;
 	text-align: center;
 	line-height: 200%;
-	margin-left: 20px;
+
 }
 
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 700px){
+	body{
+		width: 100%;
+	}
+	
+	
 	
 	.navbarsearch{
-		width:110%;
+		width:100%;
 	}
 	
 	.typesbg{
-		width: 110%;
+		width: 100%;
 	}
 	.mobileservices{
 		visibility: visible;
 	}
 	
 	.frame
-	{width: 100%;	
+	{width:100px;
+	height: 2800px;	
 	}
 
 	
