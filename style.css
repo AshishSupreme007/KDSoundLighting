@@ -264,8 +264,12 @@ ul li a{color: aqua;
 
 
 @media only screen and (max-width: 700px){
+	html {
+  overflow-x: hidden;
+}
 	body{
 		width: 100%;
+			  overflow-x: hidden;
 	}
 	
 	
