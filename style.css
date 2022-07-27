@@ -250,7 +250,8 @@ nav ul li a:hover{
 }
 ul{list-style: none};
 
-ul li a{color: aqua;}
+ul li a{color: aqua;
+}
 
 .footer hr{
 	border: none;
@@ -282,7 +283,7 @@ ul li a{color: aqua;}
 	
 	.frame
 	{width:100px;
-	height: 2800px;	
+	height: 2950px;	
 	}
 
 	
