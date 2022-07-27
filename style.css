@@ -287,7 +287,7 @@ ul li a{color: aqua;
 	
 	.frame
 	{width:100px;
-	height: 2950px;	
+	height: 3050px;	
 	}
 
 	
@@ -339,7 +339,7 @@ ul li a{color: aqua;
 
 
 
-@media only screen and (max-height: 900px){
+@media only screen and (max-width: 900px){
 	.frame{width:100%;
       }
 
